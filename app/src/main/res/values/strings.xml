@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoCapitalsQuiz</string>
+    <string name="answer_label">Answer:</string>
+    <string name="answer_hint">Enter your answer here</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Wrong!</string>
+    <string-array name="answers_array">
+        <item>Lisbon</item>
+        <item>Paris</item>
+    </string-array>
+    <string-array name="questions_array">
+        <item>What is the capital of Portugal?</item>
+        <item>What is the capital of France?</item>
+    </string-array>
+</resources>
